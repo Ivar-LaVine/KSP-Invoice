@@ -1,0 +1,3 @@
+select * from product p
+inner join separator s on (p.prd_id = s.prd_id)
+inner join invoice i on (i.inv_id = s.inv_id)

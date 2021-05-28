@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.05.28 10:53:21.079.pas,C:\Users\Plotnikov\Documents\RAD Studio\Projects\Unit1.pas=D:\DB\Debts\Packing List\Main.pas</Transaction>
+    <Transaction>2021.05.28 10:53:21.089.dfm,C:\Users\Plotnikov\Documents\RAD Studio\Projects\Unit1.dfm=D:\DB\Debts\Packing List\Main.dfm</Transaction>
+    <Transaction>2021.05.28 10:53:29.534.dproj,C:\Users\Plotnikov\Documents\RAD Studio\Projects\Project1.dproj=D:\DB\Debts\Packing List\KSP.dproj</Transaction>
+    <Transaction>2021.05.28 10:57:08.400.pas,D:\DB\Debts\Packing List\Unit2.pas=D:\DB\Debts\Packing List\PwdDlg.pas</Transaction>
+    <Transaction>2021.05.28 10:57:08.400.dfm,D:\DB\Debts\Packing List\Unit2.dfm=D:\DB\Debts\Packing List\PwdDlg.dfm</Transaction>
+    <Transaction>2021.05.28 11:57:35.580.pas,D:\DB\Debts\Packing List\Unit3.pas=D:\DB\Debts\Packing List\AddInvoiceDlg.pas</Transaction>
+    <Transaction>2021.05.28 11:57:35.580.dfm,D:\DB\Debts\Packing List\Unit3.dfm=D:\DB\Debts\Packing List\AddInvoiceDlg.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
